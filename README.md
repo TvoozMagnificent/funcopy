@@ -1,0 +1,1 @@
+# funcopy: copy a func
